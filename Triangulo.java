@@ -14,6 +14,7 @@ public class Triangulo {
     public static void main(String[] args) {
         Scanner tc = new Scanner(System.in);
         int n;
+        int hola;
         int contador = 0;
         System.out.println("Introduce el numero de lineas");
             n = tc.nextInt();
